@@ -6,6 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "node index.js",
+    "start:dev": "nodemon server.js",
     "build": "parcel build"
   },
   "repository": {
